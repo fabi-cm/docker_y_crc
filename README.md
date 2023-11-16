@@ -1,2 +1,2 @@
-# docker_y_crc
+# docker y crc
 Probar docker y mandar a openshift
